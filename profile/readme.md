@@ -1,7 +1,7 @@
 ### Hi there 👋
 Here are some ideas to get you started:
 
-### CLICK TO TAKE A PURITY TEST
+### <a href="https://ricepurity.net/">CLICK TO TAKE A PURITY TEST</a>
 
 # How to Talk When Things Get Tough in Your Relationship
 
